@@ -1,0 +1,18 @@
+div{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin: 10px 20px 30px 50px;
+    border: 10px rebeccapurple solid;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.contenedor{
+    background-color: green;
+    height: 300px;
+}
+
+#prueba{
+    background-color: aqua;
+}
